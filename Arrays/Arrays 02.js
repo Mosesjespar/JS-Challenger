@@ -3,5 +3,5 @@
 // Return the result
 function myFunction(a) {
 
-              return a.slice(3)
+              return a.slice(3);
 }
