@@ -2,6 +2,5 @@
 // It should return the value of the property with key country
 
 function myFunction(obj) {
-   
    return obj.country
 }
